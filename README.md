@@ -13,3 +13,7 @@
 * 第3步如果点击【安装】无反应，看看是否弹窗还有【安装参数】一栏需要填，安装参数自行在网络上寻找，本仓库不提供。
 * `公开安装参数会被举报，举报后参数无法使用!`
 * 如果第4步没有自动填Activation Code或License Server的话到解压目录的/jetbrains-agent/lib里找到ACTIVATION_CODE.txt复制，Lincense Server填https://fls.jetbrains-agent.com (HTTP也行)
+
+
+
+f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGlxnDgSV3xC85CGVvWY9SWa+ECeWhJZ1+hitDPCNw5lKaRBnxIKhAfQ3aJl4S5WmrOkfKoIuz3UXVoX7hZGxofqQtzfuc
